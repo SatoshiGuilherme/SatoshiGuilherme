@@ -1,5 +1,8 @@
 ## Olá pessoa
 
+• Atualmente trabalho como aprendiz de mecânica
+
+•Procurando aprender e estudar sobre programação e desenvolvimentos de software e jogos
 <!--
 **SatoshiGuilherme/SatoshiGuilherme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
